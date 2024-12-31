@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  As a developer, I'm constantly intrigued by technologies that simplify
+  workflows while pushing the boundaries of what we can create on the web.
+  Recently, I’ve been diving into Next.js, a React framework that’s redefined
+  how I think about building web applications.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
