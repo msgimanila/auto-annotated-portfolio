@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: 'My Adventures in Next.js: A Journey Through Modern Web Development'
 colors: colors-a
 date: '2022-01-22'
 client: 'My Adventures in Next.js: A Journey Through Modern Web Development'
