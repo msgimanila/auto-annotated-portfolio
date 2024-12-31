@@ -5,9 +5,13 @@ colors: colors-a
 date: '2022-01-22'
 client: 'My Adventures in Next.js: A Journey Through Modern Web Development'
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  When I first stumbled upon Next.js, I wasn’t quite sure what to expect. I’d
+  heard a lot of buzz about it being the “React framework for production,” but I
+  wasn’t sure if it was the right tool for me. Fast forward to today, and I can
+  confidently say that diving into Next.js has been one of the most rewarding
+  decisions I’ve made in my development career. It has reshaped how I think
+  about building web applications and has opened up new possibilities I hadn’t
+  even considered before.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
