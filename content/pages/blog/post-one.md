@@ -108,19 +108,41 @@ bottomSections:
       text:
         textAlign: left
 ---
+**How I Started Learning Coding**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+My journey into coding wasn’t a straight path, nor was it something I imagined would become such a pivotal part of my life. It began with a curiosity—a spark that grew as I encountered the endless possibilities of technology.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+In the beginning, I didn’t know what "coding" even meant. My first real exposure came from a desire to understand how websites worked. I remember opening the browser’s developer tools, staring at lines of HTML, CSS, and JavaScript, and thinking, *This looks like a secret language.* Little did I know, it was a language that I could learn.
 
-## About Coding
+### The First Steps
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+My first taste of actual coding came when I tried building a simple webpage. Armed with online tutorials, I wrote my first `<h1>` tag and saw "Hello, World!" displayed on the screen. It was a small achievement, but it felt monumental at the time. That feeling of creating something from nothing hooked me.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+### Early Challenges
 
-## Productivity
+The journey wasn’t easy. In those early days, I faced a lot of confusion. Terms like "variables," "loops," and "functions" felt foreign. Debugging my code was like trying to solve a mystery. But each error taught me something new, and slowly, the pieces started to make sense.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+### Breakthroughs
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+One breakthrough moment came when I completed my first functional project—a calculator. It was basic, but it worked! Seeing my code come alive gave me confidence and pushed me to explore more complex concepts like APIs, databases, and frameworks.
+
+### Embracing the Community
+
+As I grew, I found the coding community to be incredibly welcoming. Online forums, open-source projects, and communities like GitHub became invaluable resources. Learning from others and contributing back taught me that coding is not just about writing lines of code; it’s about solving problems together.
+
+### Why I Love Coding
+
+What I love most about coding is its endless creativity. It’s like solving puzzles and painting pictures at the same time. You start with a blank canvas (or an empty text editor) and create something functional, impactful, or even beautiful.
+
+### Where I Am Now
+
+Today, coding has become a part of my daily life. I work on real-world projects, constantly learning and evolving as a developer. Whether I’m exploring a new framework like Next.js, diving into backend architectures, or experimenting with AI integration, I see coding as a lifelong journey—a skill that continues to challenge and excite me.
+
+### Advice to Beginners
+
+If you’re just starting, know that the learning curve can be steep, but it’s worth the climb. Begin with small projects, celebrate your progress, and don’t be afraid to make mistakes. Remember, every great coder started from scratch, just like you and me.
+
+Looking back, I realize that starting to learn coding wasn’t just about gaining a skill—it was about discovering a passion. And that passion continues to drive me forward, one line of code at a time.
+
+
+
