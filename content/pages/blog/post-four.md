@@ -1,11 +1,10 @@
 ---
 type: PostLayout
-title: Sharing my wisdom with the world 🌎
+title: "Sharing my wisdom with the world \U0001F30E"
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
@@ -45,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -103,33 +102,31 @@ bottomSections:
       text:
         textAlign: left
 ---
+**Sharing Wisdom About Next.js**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Next.js has become one of the most popular frameworks for React, providing powerful features that help developers build modern, scalable web applications. Here are some pieces of wisdom that can help you make the most of Next.js:
 
-## Heading 2
+1.  **Embrace File-Based Routing**: One of Next.js’s standout features is its file-based routing system. The structure of your `pages` directory directly dictates the routes of your application, making navigation simple and intuitive. This reduces boilerplate code and increases productivity.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+2.  **Leverage Static Site Generation (SSG)**: Next.js is optimized for performance, and Static Site Generation (SSG) is one of its most powerful features. By pre-rendering pages at build time, you can create fast, SEO-friendly websites. If your content doesn’t change often, SSG is the way to go for speed.
 
-### Heading 3
+3.  **Use Incremental Static Regeneration (ISR)**: ISR allows you to update static content without rebuilding your entire site. This feature is perfect for sites with frequently changing content where full static regeneration would be inefficient. ISR helps you strike a balance between static and dynamic rendering.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+4.  **Utilize API Routes**: Next.js allows you to build backend APIs directly within the same codebase, thanks to its API routes. You can create serverless functions inside the `pages/api` directory, keeping the server-side code close to the front-end code and simplifying deployment.
 
-```javascript
-{
-  page.content && (
-    <Markdown
-      options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
-      className="sb-markdown max-w-screen-md mx-auto"
-      data-sb-field-path="content"
-    >
-      {page.content}
-    </Markdown>
-  );
-}
-```
+5.  **Improve Performance with Image Optimization**: Next.js includes automatic image optimization. By using the `next/image` component, you can serve images in the most efficient format and size for the user’s device, reducing load times and improving the user experience.
 
-In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+6.  **Built-in CSS and Sass Support**: Next.js supports global and component-scoped CSS out of the box. You can also integrate Sass for more powerful styling. This gives you flexibility while keeping your styling process simple and clean.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+7.  **Focus on Developer Experience**: Next.js prioritizes a seamless developer experience. With features like fast refresh, TypeScript support, and zero-config setup, it minimizes friction and makes the development process smooth and enjoyable.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+8.  **Think About SEO**: Next.js provides excellent SEO benefits, particularly with server-side rendering (SSR) and static site generation. Since search engines can crawl pre-rendered pages, your content is more discoverable and ranks better in search results.
+
+9.  **Scalability with API and Dynamic Imports**: As your project grows, Next.js makes it easy to scale. You can break down large files using dynamic imports and lazy loading to improve performance and reduce bundle sizes.
+
+10. **Adopt the JAMstack Approach**: Next.js fits perfectly within the JAMstack architecture (JavaScript, APIs, and Markup). It encourages the use of static assets with dynamic functionalities via APIs, which leads to fast, secure, and scalable applications.
+
+By leveraging these key features and practices, you can create high-performance, scalable, and maintainable applications with Next.js, all while enjoying a smooth development process. The wisdom lies in knowing when and how to use these tools for the best outcomes in your projects.
+
+
+
