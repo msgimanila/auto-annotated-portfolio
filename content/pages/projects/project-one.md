@@ -5,9 +5,13 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome Projects
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  For a long time, I’ve been captivated by the endless possibilities of web
+  development, always striving to find the best tools and frameworks to bring my
+  projects to life. Enter Next.js, a framework built on top of React that has
+  radically transformed how I approach building web applications. Whether it’s
+  the flexibility of server-side rendering (SSR), the performance benefits of
+  static site generation (SSG), or the incredible developer experience, Next.js
+  is an essential tool in my web development toolkit.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
